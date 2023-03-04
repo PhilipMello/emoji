@@ -17,7 +17,7 @@ Free resources for GitHub and sites
 
 ---
 
-## 🖼️ Status for GitHub
+## 🏷️ Status for GitHub
 
 ![Status for GitHub](https://img.shields.io/badge/Status-for%20GitHub-orange)
 
