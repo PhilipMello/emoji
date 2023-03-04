@@ -1,1 +1,3 @@
-# <p align="center">Resources</p>
+# <p align="center">💫 Resources</p>
+
+## 📝 About
