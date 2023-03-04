@@ -8,6 +8,8 @@ Free resources for GitHub and sites
 # 📚 Index
 🔖 Status for GitHub
 
+🔖 Emojis
+
 🔖 Images
 
 🔖 Animations
