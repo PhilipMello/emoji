@@ -6,7 +6,7 @@ Free resources for GitHub and sites
 ---
 
 # 📚 Index
-🔖 [Status for GitHub]()
+🔖 [Status for GitHub](pages/status-for-github.md)
 
 🔖 [Emojis]()
 
