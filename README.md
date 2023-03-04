@@ -6,21 +6,14 @@ Free resources for GitHub and sites
 ---
 
 # 📚 Index
-🔖 [Status for GitHub](#🖼️-status-for-github)
-
-🔖 [Emojis]()
-
-🔖 [Images]()
-
-🔖 [Animations]()
-
-🔖 [Color Pallete]()
-
-🔖 [Icons]()
-
-🔖 [Logos]()
-
-🔖 [Fonts]()
+🔖 [Status for GitHub](#🖼️-status-for-github)<br>
+🔖 [Emojis]()<br>
+🔖 [Images]()<br>
+🔖 [Animations]()<br>
+🔖 [Color Pallete]()<br>
+🔖 [Icons]()<br>
+🔖 [Logos]()<br>
+🔖 [Fonts]()<br>
 
 ---
 
