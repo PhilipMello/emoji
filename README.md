@@ -6,7 +6,7 @@ Free resources for GitHub and sites
 ---
 
 # 📚 Index
-🔖 [Status for GitHub](pages/status-for-github.md)
+🔖 [Status for GitHub](#🖼️-status-for-github)
 
 🔖 [Emojis]()
 
@@ -21,6 +21,16 @@ Free resources for GitHub and sites
 🔖 [Logos]()
 
 🔖 [Fonts]()
+
+---
+
+## 🖼️ Status for GitHub
+
+![Status for GitHub](https://img.shields.io/badge/Status-for%20GitHub-orange)
+
+Link
+
+[Shields.io](https://shields.io/)
 
 
 
