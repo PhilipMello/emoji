@@ -6,7 +6,7 @@ Status for GitHub
 ---
 
 # 📚 Index
-🔖 [Status for GitHub]()
+🔖 [Status for GitHub](#️-status-for-github)
 
 🔖 [Emojis]()
 
@@ -24,10 +24,12 @@ Status for GitHub
 
 ---
 
-🖼️ Status for GitHub
+## 🏷️ Status for GitHub
 
 ![Status for GitHub](https://img.shields.io/badge/Status-for%20GitHub-orange)
 
 Link
 
 [Shields.io](https://shields.io/)
+
+---
