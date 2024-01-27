@@ -8,7 +8,7 @@ Free resources for GitHub and sites
 # 📚 Index
 🔖 [Status for GitHub](#️-status-for-github)<br>
 🔖 [Emojis](#-emojis)<br>
-🔖 [Images]()<br>
+🔖 [Images](#images)<br>
 🔖 [Animations]()<br>
 🔖 [Color Pallete]()<br>
 🔖 [Icons]()<br>
@@ -163,4 +163,6 @@ Link
 ```
 🥅
 ```
+
+# Images
 
