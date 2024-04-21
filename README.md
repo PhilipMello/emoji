@@ -26,8 +26,8 @@ Link
 [Shields.io](https://shields.io/)
 
 ### Generate an image of contributors to keep your README.md in sync.
-<a href="https://github.com/PhilipMello/how-to/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=PhilipMello/how-to" />
+<a href="https://github.com/PhilipMello/Resources/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=PhilipMello/Resources" />
 </a>
 
 [contrib.rocks](https://contrib.rocks/)
